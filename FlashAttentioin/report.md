@@ -1,9 +1,3 @@
----
-title: HW4 FlashAttension
-
----
-
-
 # HW4 FlashAttension
 
 #### ID: 112062698 / Name: 戴樂為

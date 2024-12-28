@@ -1,9 +1,3 @@
----
-title: HW2 Mandelbrot set
-
----
-
-
 # HW2 Mandelbrot set
 
 #### ID: 112062698 / Name: 戴樂為

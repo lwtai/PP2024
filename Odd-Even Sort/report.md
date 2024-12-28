@@ -1,9 +1,3 @@
----
-title: HW1 odd-even sort
-
----
-
-
 # HW1 odd-even sort
 
 #### ID: 112062698 / Name: 戴樂為

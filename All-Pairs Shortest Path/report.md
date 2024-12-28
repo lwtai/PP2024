@@ -1,9 +1,3 @@
----
-title: HW3 All-Pairs Shortest Pair
-
----
-
-
 # HW3 All-Pairs Shortest Pair
 
 #### ID: 112062698 / Name: 戴樂為
